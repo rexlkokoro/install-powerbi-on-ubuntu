@@ -8,5 +8,5 @@ This project provides a script to install and run Microsoft Power BI Desktop on 
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/your-username/powerbi-on-ubuntu.git
+   git clone https://github.com/rexlkokoro/install-powerbi-on-ubuntu.git
    cd powerbi-on-ubuntu
